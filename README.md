@@ -1,6 +1,8 @@
 # resource
 
 > A Vue.js project
+# description
+该项目完成教学资源分类（视频、文档），类似于其他学习网站
 
 ## Build Setup
 
